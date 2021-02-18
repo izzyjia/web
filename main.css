@@ -1,3 +1,4 @@
+/* changes the whole body of the website, including the background color, etc. */
 body {
 	background-color: pink;
 	font-family: sans-serif;
@@ -5,6 +6,7 @@ body {
 	padding: 30px;
 }
 
+/* changes the heading title only */
 .heading {
 	font-size: 40px;
 	font-family: courier;
@@ -12,13 +14,15 @@ body {
 	text-align:center;
 }
 
+/* changes the font and color of the subheadings from the TOC */
 h2 {
 	color: GoldenRod;
 	font-family: system-ui;
 	font-size: 20px;
 	font-style: oblique 50deg;
 }
-	
+
+/* changes the color and font of paragraph content */
 p {
 	color: SaddleBrown;
 	font-family: Georgia, serif;
@@ -29,15 +33,18 @@ p {
 	
 }
 
+/* changes how the TOC looks like */
 li {
 	font-style: italic;
 	color: "#E9967A";
 }
 
+/* changes color of TOC text */
 h1 {
 	color: SaddleBrown;
 }
 
+/* changes color of Thinker text */
 h3 {
 	color: SaddleBrown;
 }
