@@ -22,5 +22,9 @@ h2 {
 p {
 	color: "#763527";
 	font-family: Georgia, serif;
+	font-style: normal;
+	font-weight: 500;
+	font-stretch: expanded;
+	margin: 20px "#FFDAF7";
 	
 }
