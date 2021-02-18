@@ -2,5 +2,12 @@ body {
 	background-color: pink;
 	color: brown;
 	font-family: sans-serif;
-	border: 2px dotted;
+	border: 2px dotted beige;
+	padding: 30px;
+}
+
+title {
+	font-size: 20px;
+	font-family: courier;
+	color: red;
 }
