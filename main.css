@@ -8,7 +8,7 @@ body {
 .heading {
 	font-size: 40px;
 	font-family: courier;
-	color: PeachPuff;
+	color: GoldenRod;
 	text-align:center;
 }
 
@@ -35,9 +35,9 @@ li {
 }
 
 h1 {
-	color: DarkSalmon;
+	color: SaddleBrown;
 }
 
 h3 {
-	color: DarkSalmon;
+	color: SaddleBrown;
 }
