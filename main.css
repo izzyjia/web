@@ -28,3 +28,9 @@ p {
 	margin: 20px "#FFDAF7";
 	
 }
+
+li {
+	font-style: italic;
+	border: double;
+	color: ivory;
+}
