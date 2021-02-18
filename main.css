@@ -8,19 +8,19 @@ body {
 .heading {
 	font-size: 40px;
 	font-family: courier;
-	color: red;
+	color: PeachPuff;
 	text-align:center;
 }
 
 h2 {
-	color: red;
+	color: PeachPuff;
 	font-family: system-ui;
 	font-size: 20px;
 	font-style: oblique 50deg;
 }
 	
 p {
-	color: "#763527";
+	color: SaddleBrown;
 	font-family: Georgia, serif;
 	font-style: normal;
 	font-weight: 500;
@@ -31,7 +31,7 @@ p {
 
 li {
 	font-style: italic;
-	color: ivory;
+	color: "#E9967A";
 }
 
 h1 {
