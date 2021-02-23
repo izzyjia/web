@@ -8,6 +8,7 @@ HW05 -- Stuylin'
 body {
 	background-color: BurlyWood;
 	border: 8px dotted beige;
+	border-width: medium;
 	padding: 20px;
 }
 
