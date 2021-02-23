@@ -7,7 +7,6 @@ HW05 -- Stuylin'
 /* changes the whole body of the website, including the background color, etc. */
 body {
 	background-color: BurlyWood;
-	font-family: sans-serif;
 	border: 2px dotted beige;
 	padding: 30px;
 }
@@ -24,7 +23,7 @@ body {
 h2 {
 	color: GoldenRod;
 	font-family: system-ui;
-	font-size: 20px;
+	font-size: 27px;
 	font-style: oblique 50deg;
 }
 
@@ -44,6 +43,7 @@ p {
 li {
 	font-style: italic;
 	color: "#E9967A";
+	font-size: 20px
 }
 
 /* changes color of TOC text */
